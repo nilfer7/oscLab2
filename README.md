@@ -1,2 +1,2 @@
 # oscLab2
-Repository for first second session
+Repository for second session
